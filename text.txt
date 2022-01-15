@@ -1,0 +1,1 @@
+-player1 MinimaxPlayer -player2 SimplePlayer
